@@ -16,6 +16,7 @@
 7. Manipulate data with SQL.
 8. Run an SQL csv export query to create a csv from the data.
 
+## Continued
 9. Create a new folder where you want the edited PDF files and move editpdf.py into it.
 10. Also move BOPQUOTE.pdf to that folder.
 11. Change csv_path to the location of the csv file.
